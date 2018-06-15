@@ -1,0 +1,122 @@
+[
+    {
+       "title": "教授兼系主任",
+       "artist": "林詩偉",
+       "phone": "(03)2118800 轉 5811",
+       "url": "http://im.cgu.edu.tw/files/15-1055-7570,c3985-1.php?Lang=zh-tw",
+       "descriptions": "國立台灣科技大學工業管理博士",   
+       "skill": "通用啟發式演算法之應用、大數據、資料探勘、排程、車輛途程問題",
+       "img":"http://im.cgu.edu.tw/ezfiles/55/1055/img/921/865861904.jpg"
+        },
+       {
+        "title": "教授",
+        "artist": "許建隆",
+        "phone": "(03)2118800 轉 5827",
+        "url": "http://im.cgu.edu.tw/files/15-1055-7571,c3985-1.php?Lang=zh-tw",
+        "descriptions": "國立台灣科技大學資訊管理博士",   
+        "skill": "智慧家庭、行動商務、電腦與通訊安全、資訊安全、應用密碼學、健康照護、數位版權管理、自動辨識技術、數位鑑識",
+        "img":"http://im.cgu.edu.tw/ezfiles/55/1055/img/921/159074062.jpg"    
+    },
+    {
+        "title": "教授 (企研所合聘)",
+        "artist": "萬書言",
+        "phone": "(03)2118800 轉 5819",
+        "url": "http://im.cgu.edu.tw/files/15-1055-7579,c3985-1.php?Lang=zh-tw",
+        "descriptions": "賓州州立大學電腦科學暨工程博士",   
+        "skill": "醫學影像、電腦視覺、生物資訊、影像處理",
+        "img":"http://im.cgu.edu.tw/ezfiles/55/1055/img/921/444447838.jpg" 
+    },
+    {
+        "title": "副教授",
+        "artist": "張文珍",
+        "phone": "(03)2118800 轉 3693",
+        "url": "http://im.cgu.edu.tw/files/15-1055-7585,c3986-1.php?Lang=zh-tw",
+        "descriptions": "國立交通大學 工業工程與管理博士",   
+        "skill": "供應鏈管理、醫療服務品質、產能管理、品質工程",
+        "img":"http://im.cgu.edu.tw/ezfiles/55/1055/img/921/138893367.jpg" 
+    },
+    {
+        "title": "助理教授",
+        "artist": "陳春賢",
+        "phone": "(03)2118800 轉 5816",
+        "url": "http://im.cgu.edu.tw/files/15-1055-7567,c117-1.php",
+        "descriptions": "美國愛荷華州立大學 電腦科學 博士",   
+        "skill": "資料探勘、生物資訊、計算式智慧、類神經網路",
+        "img":"http://im.cgu.edu.tw/ezfiles/55/1055/img/921/135396986.jpg" 
+    },
+    {
+        "title": "助理教授",
+        "artist": "陳昱仁",
+        "phone": "(03)2118800 轉 5823",
+        "url": "http://im.cgu.edu.tw/files/15-1055-7565,c117-1.php",
+        "descriptions": "國立交通大學資訊管理博士",   
+        "skill": "資訊安全、無線通訊、行動商務",
+        "img":"http://im.cgu.edu.tw/ezfiles/55/1055/img/921/P13.jpg" 
+    },
+    {
+        "title": "兼任專業技術助理教授",
+        "artist": "許晋銘",
+        "phone": "(03)2118800 ",
+        "url": "http://im.cgu.edu.tw/files/13-1055-49078.php?Lang=zh-tw",
+        "descriptions": "政治大學資訊科學所碩士",   
+        "skill": "數位鑑識、資安管理制度、資訊安全",
+        "img":"http://im.cgu.edu.tw/ezfiles/55/1055/img/921/173592491.jpg" 
+    },
+    {
+        "title": "兼任助理教授",
+        "artist": "毛敬豪",
+        "phone": "(03)2118800 ",
+        "url": "http://im.cgu.edu.tw/files/13-1055-26195.php",
+        "descriptions": "國立台灣科技大學資訊工程學系博士",   
+        "skill": "資訊安全",
+        "img":"http://im.cgu.edu.tw/ezfiles/55/1055/img/921/201370268.jpg" 
+    },
+    {
+        "title": "助理教授",
+        "artist": "曾意儒",
+        "phone": "(03)2118800 轉 5815 ",
+        "url": "http://im.cgu.edu.tw/files/15-1055-40381,c3987-1.php",
+        "descriptions": "國立台灣大學生醫電子與資訊學博士",   
+        "skill": "醫療大數據分析、醫學資訊、臨床決策支援系統、傳染病監測",
+        "img":"http://im.cgu.edu.tw/ezfiles/55/1055/img/921/webPhoto_YJT.jpg" 
+    },
+    {
+        "title": "助理教授",
+        "artist": "王日昌",
+        "phone": "(03)2118800 轉 5821 ",
+        "url": "http://im.cgu.edu.tw/files/15-1055-40381,c3987-1.php",
+        "descriptions": "國立交通大學運輸管理學博士",   
+        "skill": "多目標決策、電子商務、模糊邏輯",
+        "img":"http://im.cgu.edu.tw/ezfiles/55/1055/img/921/361180625.jpg" 
+    },
+    {
+        "title": "助理教授",
+        "artist": "吳文傑",
+        "phone": "(03)2118800 轉 5851 ",
+        "url": "http://im.cgu.edu.tw/files/15-1055-7561,c117-1.php",
+        "descriptions": "國立中正大學資訊工程博士",   
+        "skill": "醫學影像電腦輔助診斷、影像處理、影像檢索",
+        "img":"http://im.cgu.edu.tw/ezfiles/55/1055/img/921/P16.jpg" 
+    },
+    {
+        "title": "助理教授",
+        "artist": "林俊逸",
+        "phone": "(03)2118800 轉 5828 ",
+        "url": "http://im.cgu.edu.tw/files/15-1055-7569,c117-1.php",
+        "descriptions": "美國加州大學柏克萊分校工業工程與作業研究博士",   
+        "skill": "電腦整合生產系統、物件導向模型化、資料庫設計與管理",
+        "img":"http://im.cgu.edu.tw/ezfiles/55/1055/img/921/136098829.jpg" 
+    },
+    {
+        "title": "助理教授",
+        "artist": "廖耕億",
+        "phone": "(03)2118800 轉 5852 ",
+        "url": "http://im.cgu.edu.tw/files/15-1055-7562,c117-1.php",
+        "descriptions": "國立交通大學資訊管理博士",   
+        "skill": "資訊安全管理、資訊安全行為研究、安全系統工程、P2P網路",
+        "img":"http://im.cgu.edu.tw/ezfiles/55/1055/img/921/197780020.jpg" 
+    }
+    
+    
+
+]
